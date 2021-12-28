@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffba7339-7016-448f-b7f6-c835855c3b7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lnFY1HnPMm48N3zFCbMCGTuQnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/en" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\PTutoré 1\Tutoré V2\en" />
+      <recent name="D:\Work\PTutoré 1\Tutoré V2\fr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\clali\Desktop\Tutoré V2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffba7339-7016-448f-b7f6-c835855c3b7c" name="Default Changelist" comment="" />
+      <created>1608224991477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608224991477</updated>
+      <workItem from="1608224992523" duration="13383000" />
+      <workItem from="1608285060647" duration="12769000" />
+      <workItem from="1608380136339" duration="9626000" />
+      <workItem from="1610028804050" duration="5569000" />
+      <workItem from="1610121268185" duration="130000" />
+      <workItem from="1610198223182" duration="9899000" />
+      <workItem from="1610305517625" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="270" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608236876651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="270" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608236876651" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608228392846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608228392846" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608225436292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608225436292" />
+  </component>
+</project>
